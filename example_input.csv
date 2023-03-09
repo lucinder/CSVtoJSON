@@ -1,0 +1,142 @@
+name,rarity,avgwgt,avglen,maxwgt,maxlen,image
+Example Fish,Common,1,1,1,1,
+Cod,Common,34000,100,96000,200,https://www.mistralseafoods.com/wp-content/uploads/2017/05/cod.png
+Sardine,Common,150,20,300,27.5,https://www.supremelobster.com/wp-content/uploads/sardine.png
+Bream,Common,3000,35,9100,70,https://www.mexican-fish.com/wp-content/uploads/F374-Sea-Bream.jpg
+Sprat,Common,100,12,130,16,https://www.worldlifeexpectancy.com/images/a/w/b/clupeonella-cultriventris/clupeonella-cultriventris.jpg
+Mackerel,Common,2700,30,3400,60,https://s3.amazonaws.com/fs4.fishsource.org/uploads/single_species/image_path/133/Atlantic_mackerel.jpg
+Herring,Common,230,30,1100,45,https://www.mexican-fish.com/wp-content/uploads/F715-Atlantic-Thread-Herring-2.jpg
+Tuna,Common,13600,100,40800,140,https://biologydictionary.net/wp-content/uploads/2021/01/shutterstock_117425023-1-scaled.jpg
+Red Snapper,Common,4130,60,22800,100,https://www.thaisrus-grocers.co.uk/wp-content/uploads/2016/05/red-snapper-zoom.jpg
+Carp,Common,4000,31,40100,120,https://www.floridamuseum.ufl.edu/wp-content/uploads/sites/66/2020/02/Plate-33-scaled.jpg
+Goby,Common,7,6,30,17,https://i.pinimg.com/736x/47/96/3e/47963e74540cba099c71a9c61ba6bbc2.jpg
+Salmon,Common,2200,50,6800,76,http://troutster.com/wp-content/uploads/Pink_salmon.jpg
+Anchovy,Common,11,13.5,49,21,https://objects.liquidweb.services/images/202010/inat_1603846290-5f98d43746b8d.jpg
+Mahi Mahi,Common,10000,50,40000,146,https://images.fineartamerica.com/images/artworkimages/mediumlarge/1/mahi-mahi-underwater-adrian-e-gray.jpg
+Silver-Biddy,Common,30,20,100,30,https://d2ysif0spfh53o.cloudfront.net/wp-content/uploads/2020/03/Longtail-silverbiddy.jpg
+Pollock,Common,794,41,3900,91,https://uploads-ssl.webflow.com/59937739f518d90001411084/59937739f518d900014110e3_02_Alaska_Pollock.png
+Prawn,Common,33,8.89,70,23,https://lh5.googleusercontent.com/-ENDG00sYQWY/TX2pkkvJO2I/AAAAAAAABrA/jznOM9Q-vic/w1200-h630-p-k-no-nu/bc_spot_prawn.jpg
+Capelin,Common,25,15,52,25,https://fishandbait.com/wp-content/uploads/2018/06/capelin_top_regular.png
+Haddock,Common,1000,40,1800,69,https://healthcautions.com/wp-content/uploads/2018/04/haddock-1.jpg
+Tilapia,Common,433,17,4300,60,https://i0.wp.com/www.cleverlysmart.com/wp-content/uploads/2021/04/Nile-tilapia-fish.jpg?w=1000&ssl=1
+Flounder,Common,1000,50,2900,60,https://www.barnegatbaypartnership.org/wp-content/uploads/2020/06/Scophthalmus-aquosus-SERC-Wikimedia-Commons.jpg
+Angelfish,Common,900,30,1600,45,https://images.squarespace-cdn.com/content/v1/5153b3fae4b0473d83b61202/1598775992818-9CLMXRSXGBBXTU9S3V2D/ke17ZwdGBToddI8pDm48kEPS92eZAdmn6Dpaz8xlE5x7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z5QPOohDIaIeljMHgDF5CVlOqpeNLcJ80NK65_fV7S1UXAjfAemFK1TqfJyIz-jh-xmvAEpvjFfbc9bgylwL2lWH5lBwBkRlkc0Vtt1cN0MIQ/queen+angelfish.jpg
+Crawfish,Common,50,7.5,3500,40,https://www.groomerseafood.com/wp-content/uploads/2020/12/crawfish-sack.jpg
+Perch,Common,120000,100,200000,200,https://www.nyanzaperch.com/images/gallery/2-NILE-PERCH-WHOLE-FISH-1.jpg
+Toadfish,Common,900,35,2300,57,https://divetravelguides.com/wp-content/uploads/2019/06/Toadfish2.jpg
+Catfish,Common,1500,57,26300,132,https://i1.wp.com/www.realestnature.com/wp-content/uploads/2020/06/Blue-Catfish.jpg?resize=2048%2C1365&ssl=1
+St. Pierre,Common,900,40,8000,90,http://badangling.com/wp-content/uploads/2017/07/John-Dory-Zeus-faber.jpg
+Squirrelfish,Common,800,27,1000,32,https://cdn.reefapp.net/large/4056.jpg
+Pineapplefish,Common,1000,11,2300,25,http://3.bp.blogspot.com/-Dhssp554FwY/U4HV7UaeKxI/AAAAAAAALtI/1dWo9dGfCvE/s1600/monocentris_japonica.jpg
+Pipefish,Common,50,20,100,29,https://1.bp.blogspot.com/-LsWRh-MQJTU/V3jwyAQm86I/AAAAAAAADC0/8S3PJIdBJBY4N7qlbTXlT4BpiF8YIP8qwCLcB/s1600/DSCN0539.JPG
+Trout,Common,2000,60,9000,122,https://getwallpapers.com/wallpaper/full/2/c/b/179801.jpg
+Oyster,Common,85,12,100,30,https://www.newburytoday.co.uk/_media/img/Q4QZVLLSGCHK1S6LCEO2.jpg
+Clam,Common,595,5,332000,137,https://pbs.twimg.com/media/BhfWVVZCUAABQ19.jpg
+Ribbonfish,Uncommon,45,18,168,27,https://upload.wikimedia.org/wikipedia/commons/7/76/Dealfish.jpg
+Menhaden,Uncommon,400,32,600,50,https://dnr.maryland.gov/fisheries/fishfacts/menhaden.gif
+Ilish,Uncommon,700,40,1500,60,https://atories.com/wp-content/uploads/2020/08/Hilsa-is-The-King-of-Fish-at-Bangladesh-1024x576.jpg
+Sturgeon,Uncommon,453592,215,1587573,800,https://seahistory.org/wp-content/uploads/Sturgeon.jpg
+Gar,Uncommon,90718,200,137000,305,"https://res.cloudinary.com/fin-field/image/upload/c_mfit,w_700/v1416885164/yjlqyitniipiqlqvmdm9.jpg"
+Seahorse,Uncommon,200,12,500,21,https://returntonow.net/wp-content/uploads/2020/06/Long-snout-seahorse-2497828-768x456.png
+Cornetfish,Uncommon,279,120,3000,200,https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Fistularia_tabacaria.jpg/1280px-Fistularia_tabacaria.jpg
+Snook,Uncommon,1356,50,24300,140,https://ssl.c.photoshelter.com/img-get/I0000ETSNGdAWW_c/s/900/720/R11366.jpg
+Stargazer,Uncommon,1000,21,9000,75,https://upload.wikimedia.org/wikipedia/commons/8/8f/FMIB_45714_Kathetostoma_laeve.jpeg
+Loach,Uncommon,40,15,200,28,https://fullserviceaquatics.com/wp-content/uploads/2014/01/image-of-dojo-loach.jpg
+Piranha,Uncommon,3000,28,15000,70,https://wiki.fishingplanet.com/images/7/71/Red-Bellied_Piranha.png
+Neon Tetra,Uncommon,25,6,50,8,https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Neonsalmler_Paracheirodon_innesi.jpg/1200px-Neonsalmler_Paracheirodon_innesi.jpg
+Scallop,Uncommon,18.1,8,45.3,17,https://www.fergusonaustralia.com/wp-content/uploads/2019/04/FERG-SCALLOPS_single.jpg
+Sole,Uncommon,900,35,3000,70,https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Solea_solea_1.jpg/1280px-Solea_solea_1.jpg
+Marlin,Uncommon,181000,290,818000,500,https://www.dailypress.com/resizer/Z9u9NCImsdOGXFhtGsUX8bjASNE=/1200x445/top/cloudfront-us-east-1.images.arcpublishing.com/tronc/USXG7MVKJBHVJCQPSPHJTH4RXM.jpg
+Remora,Uncommon,900,40,1100,86,http://cookislands.bishopmuseum.org/MM/MX5/5BB341_Eche-nauc_RR1_GMcD1_MX.jpg
+Cobia,Uncommon,45359,110,78000,200,https://upload.wikimedia.org/wikipedia/commons/3/31/Rachycentron_canadum_Robertson.jpg
+Mullet,Uncommon,1000,50,8000,100,https://www.fishbase.se/images/species/Mucep_u4.jpg
+Pintano,Uncommon,150,15,200,23,https://upload.wikimedia.org/wikipedia/commons/c/cd/SergeantMajor_Icon.jpg
+Lungfish,Uncommon,20000,100,40000,170,https://cdn7.bigcommerce.com/s-kkon4imfg5/images/stencil/1280x1280/products/8323/6191/dipneuse__57300.1522387057.jpg
+Seadragon,Uncommon,113,22,200,35,https://indopacificimages.com/wp-content/uploads/2018/01/SA_10_Dec_D03_075_cc_crop_750.jpg
+Wrasse,Uncommon,3000,30,7000,45,https://seaunseen.com/wp-content/uploads/2017/08/MG_1995.jpg
+Batfish,Uncommon,900,60,2000,70,https://upload.wikimedia.org/wikipedia/commons/1/1f/Platax%2C_Mauritius.jpg
+Squid,Uncommon,275,30,500,50,https://content.eol.org/data/media/63/d2/60/509.5078029.jpg
+Betta,Uncommon,25,6,50,8,https://i1.wp.com/goodjosephlivefishstore.com/wp-content/uploads/2020/03/1031740-left-1.jpg
+Roosterfish,Uncommon,13607,60,51700,163,https://thumbs.gocdn.us/383_2609.zt.3000.2500.jpg
+Shark,Uncommon,330000,300,43000000,1800,http://i0.wp.com/www.bocaratontribune.com/wp-content/uploads/2016/05/NurseShark-Stock-1170x736.jpg
+Eel,Uncommon,300,45,2721,100,https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Anguilla_japonica_1856.jpg/1920px-Anguilla_japonica_1856.jpg
+Snakehead,Uncommon,2267,70,8360,150,https://upload.wikimedia.org/wikipedia/commons/0/0f/Northern_snakehead.jpg
+Silver Moony,Uncommon,14,12,168,27,https://upload.wikimedia.org/wikipedia/commons/5/55/Silver_Moony.jpg
+Pike,Uncommon,1587,50,28400,150,https://upload.wikimedia.org/wikipedia/commons/c/c5/Esox_lucius1.jpg
+False Scorpionfish,Uncommon,80,9.3,250,25,https://marinewise.com.au/wp-content/uploads/2020/07/False-Scorpionfish-Marinewise-1536x1005.png
+Rosy Dory,Uncommon,750,25,900,31,https://fishesofaustralia.net.au/Images/Image/CyttopsisRosea.jpg
+Houndfish,Uncommon,4500,55,6350,150,https://upload.wikimedia.org/wikipedia/commons/f/fd/Tylosurus_crocodilus.jpg
+Grouper,Uncommon,140000,180,400000,270,https://static.fishingbooker.com/public/images/fish/275x160/grouper-dusky.png
+Garibaldi,Uncommon,500,25,907,38,http://4.bp.blogspot.com/-1ZsHQZsHTkk/TsKogL_QLuI/AAAAAAAAIUk/kfPOccxLmDs/s1600/Catalina0009.JPG
+Halibut,Uncommon,9100,91,230000,240,https://upload.wikimedia.org/wikipedia/commons/9/96/Hippoglossus_stenolepis.png
+Moonfish,Uncommon,31800,20,90700,30,https://i.stack.imgur.com/kUhb8.jpg
+Largehead Hairtail,Uncommon,4000,100,6000,234,https://upload.wikimedia.org/wikipedia/commons/7/72/Trichiurus_lepturus_SI2.jpg
+Lizardfish,Uncommon,500,25,650,41,http://www.richard-seaman.com/Underwater/Thailand/Highlights/ReefLizardfishOnCoral07.jpg
+Crab,Uncommon,151,22,12700,27.94,https://fthmb.tqn.com/IOPOXPgV-RAta_Lh0ctIajJ0mDg=/960x0/filters:no_upscale()/Crab-56a235485f9b58b7d0c7e757.jpg
+Slimehead,Uncommon,1700,40,7000,75,http://www.fishwallpapers.com/wallpapers/cute-slimehead-photo.jpg
+Mylossoma,Uncommon,900,22,1000,25,https://ananova.news/wp-content/uploads/2019/03/CEN-SilverMylossoma-03-1024x707.jpg
+Sunfish,Uncommon,500000,180,2300000,333,https://www.baliocean.com/wp-content/uploads/2019/11/ocean-sunfish-mola-mola.jpg
+Pufferfish,Uncommon,1800,45,13608,67,https://i.kym-cdn.com/entries/icons/original/000/031/847/Korean_street_food_-_Puffer_fish__blowfish_eat_carrot!_toxic_cleaning_1-16_screenshot.png
+Barracuda,Uncommon,3000,60,49895,182.88,https://wiki.alexissmolensk.com/images/c/c6/Barracuda-image.jpg
+Flying Fish,Uncommon,900,20,1000,50,https://dinoanimals.com/wp-content/uploads/2018/07/Flying-fish-4.jpg
+Sapphire Damsel,Uncommon,50,2.5,300,10.5,https://live.staticflickr.com/4448/37569552222_b43310c0fb_b.jpg
+Clownfish,Uncommon,150,7.6,350,11,https://liveaboarddiving.com.au/files/2021/03/clownfish-2048x1517.jpg
+Parrotfish,Uncommon,3000,32,12000,120,https://2.bp.blogspot.com/-tDKmy5_RcMM/UTt7UBSo0PI/AAAAAAAAB6E/kPAYbaINEhc/s1600/Parrotfish_3.jpg
+Scorpionfish,Uncommon,1542,20,3000,43,https://www.mexican-fish.com/wp-content/uploads/F190-California-Scorpionfish-1.jpg
+Lionfish,Uncommon,500,13,1200,48,"https://www.thesprucepets.com/thmb/1mzNuO0Z4jlUnm7Uschss0QdZSY=/2121x1414/filters:fill(auto,1)/GettyImages-1209874964-462370fea7814eb3b216ac2a47327409.jpg"
+Blue Tang,Uncommon,450,15,600,31,http://3.bp.blogspot.com/-Z25Hb5Hp1eY/TsJFyhcn4XI/AAAAAAAACLg/NKgzeU75T3o/w1200-h630-p-nu/Blue+Tang5.jpg
+Triggerfish,Uncommon,3000,20,5896.7,100,http://ourmarinespecies.com/wp-content/uploads/2019/05/White-banded-triggerfish_8.jpg
+Dascyllus,Uncommon,20,6,45,14,https://www.monaconatureencyclopedia.com/wp-content/uploads/2008/08/1-Dascyllus-aruanus.jpg
+Moorish Idol,Uncommon,907,21,3628.7,29,https://www.zoochat.com/community/media/moorish-idol-zanclus-cornutus.434196/full?d=1550539490
+Swordfish,Uncommon,90718,300,650000,455,https://wallpaperset.com/w/full/7/c/e/306700.jpg
+Lancetfish,Uncommon,2500,150,9000,215,https://i.insider.com/537b70bb69bedd537f384faf?width=1200
+Paddlefish,Rare,27000,150,500000,700,https://www.montanaoutdoor.com/wp-content/uploads/2013/05/paddlefish.jpg
+Narwhal,Rare,800000,395,1600000,550,https://lirp-cdn.multiscreensite.com/a67897e8/dms3rep/multi/opt/narwhal-960w.jpg
+Dolphin,Rare,300000,340,650000,400,https://www.americanoceans.org/wp-content/uploads/2021/02/bottlenose-dolphin-2048x1366.jpg
+Sea Bass,Rare,4082,61,255000,250,http://sportfishing-costarica.com/wp-content/uploads/2013/06/Sea-Bass1.jpg
+Black Bass,Rare,680,33,11400,75,https://content.osgnetworks.tv/infisherman/content/photos/hybrid-black-bass-840.jpg
+Lancelet,Rare,20,2.5,50,8,https://images.saymedia-content.com/.image/t_share/MTc2MjcxNzU0MjUwNDk1MTY2/example-of-chordata-phylum-chordata-with-examples.jpg
+Lamprey,Rare,2300,60,3100,120,https://a-z-animals.com/media/lamprey-3.jpg
+Hagfish,Rare,850,50,1400,127,https://www.the-sustainable-fashion-collective.com/img/http/assets.the-sustainable-fashion-collective.com/assets/the-swatch-book/2017/06/pacific-hagfish-slime-01-600x800.jpg/995c7f7d62669913aaafbec41cbb4321.webp
+Lanternfish,Rare,12,10,20,30,https://images.fineartamerica.com/images-medium-large-5/lanternfish-myctophum-asperum-dant-fenolio.jpg
+Fangtooth,Rare,7.5,8,50,18,http://www.science-rumors.com/wp-content/uploads/2017/11/Top-10-Fangtooth-Fish-Characteristics-that-Have-Helped-It-Survive.jpg
+Crested Bigscale,Rare,35,14,50,19,https://i.pinimg.com/736x/28/ce/ea/28ceea2753aeebe4f6909706808a7141.jpg
+Bristlemouth,Rare,10,7.5,20,15,https://ssl.c.photoshelter.com/img-get/I0000coXqqjfIyDk/s/850/680/3061236.jpg
+Rainbow Cale,Rare,200,20,300,24,https://i.pinimg.com/originals/43/e0/e0/43e0e05e4f4c9c7fbadfea624c4367e8.jpg
+Totoaba,Rare,6000,80,100000,200,https://datamares.org/wp-content/uploads/2021/03/Totoaba-min.png
+Hatchetfish,Rare,20,5,50,12,https://images.fineartamerica.com/images-medium-large-5/4-lovely-hatchetfish-argyropelecus-dant-fenolio.jpg
+Anglerfish,Rare,12000,10,50000,100,https://i.pinimg.com/originals/39/3a/28/393a286c3f82f3b668e979d0d518e191.jpg
+Aba-Aba,Rare,17000,122,19000,167,http://bransonswildworld.com/wp-content/uploads/2015/06/Aba-Knife-Fish.jpg
+Coelacanth,Rare,50000,168,95000,200,https://1.bp.blogspot.com/-svHrFmS-uXE/UFafKeyr_hI/AAAAAAAABvQ/kVT0Q7jQXtw/s1600/Coelacanth3.jpg
+Oarfish,Rare,200000,300,272000,800,https://upload.wikimedia.org/wikipedia/commons/2/2a/Regalecus_glesne%2C_Naturhistorisches_Museum_Wien.jpg
+Telescopefish,Rare,170,20,250,26,https://upload.wikimedia.org/wikipedia/commons/c/cd/Gigantura_chuni.png
+Tinselfish,Rare,100,15,4000,72,https://biogeodb.stri.si.edu/caribbean/resources/img/images/species/3366_7186.jpg
+Porpoise,Rare,61000,160,220000,230,http://motioncow.com/wp-content/uploads/2017/10/Harbour_Porpoise_K-1030x1030.jpg
+False Boarfish,Rare,1000,20,3600,30.5,https://upload.wikimedia.org/wikipedia/commons/0/0e/Neocyttus_helgae_2.jpg
+Greenbone,Rare,1500,40,5000,70,https://upload.wikimedia.org/wikipedia/commons/6/66/Odax_pullus_%28Greenbone%29.jpg
+Beluga Whale,Rare,1200000,400,1900000,550,https://wallpapercave.com/wp/wp4217028.jpg
+Dragonfish,Rare,15,10,50,53,https://www.science-rumors.com/wp-content/uploads/2018/10/Black-Dragonfish-Characteristics.jpg
+Jellynose Fish,Rare,1300,35,1500,95,https://3.bp.blogspot.com/-OxmfBYenXt8/V2oqyiGHbFI/AAAAAAAAP-k/-FsK0X5sgqEBHFtD7GX6G51qI8AUTeaYACLcB/s1600/ateleopus_tanabensis.jpg
+Tube-Eye,Rare,1020,20,3240,28,https://www.sciencenews.org/wp-content/uploads/2019/05/050919_sm_deep-sea-fish_feat.jpg
+Drumfish,Rare,2000,18,13600,27,https://3.bp.blogspot.com/-tkCjer2AnB4/WSsojtIoXzI/AAAAAAAAByo/1W043umEZE8SSAgLxbKUuxXzDi4v-EHqQCEw/s640/spotted%2Bdrum%2Bfish.jpg
+Gramma,Rare,30,8,50,10,https://www.thepetstep.com/wp-content/uploads/2020/04/Royal-Gramma-Fish-768x496.jpg
+Discus,Rare,20,5,40,13.7,https://wallpapercave.com/wp/aAjzUg1.jpg
+Arowana,Rare,5000,75,10000,90,https://i0.wp.com/mhimb.com/wp-content/uploads/2018/03/arowana-2.jpg?fit=1702%2C1212
+Giant Salamander,Rare,23000,140,25000,150,https://i.pinimg.com/736x/ae/ad/70/aead709b4700be06411453e38e38d231.jpg
+Axolotl,Rare,250,20,500,46,https://fantaxies.com/wp-content/uploads/2021/03/purpleaxanthic5-1536x1082.jpg
+Octopus,Rare,800,10,71000,430,https://www.joelsartore.com/wp-content/uploads/stock/ANI041/ANI041-00198A-1920x1278.jpg?x11742
+Aspidorhynchus,Legendary,2213,60,7475,90,http://idata.over-blog.com/4/00/22/51/aspidorhynchus1.jpg
+Greenland Shark,Legendary,1000000,640,1400000,730,https://i.pinimg.com/originals/89/e5/cf/89e5cf9d6bf9447a7bb64c5d6aa2b5fb.jpg
+Hyneria,Legendary,279344,300,1293269,500,https://i.pinimg.com/originals/aa/75/18/aa7518c020ce8cfe1709da1e17a1b5f2.jpg
+Rhizodus,Legendary,443590,350,3548725,700,https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fr.ddmcdn.com%2Fs_f%2Fo_1%2Fw_1024%2Fh_683%2FAPL%2Fuploads%2F2015%2F05%2Frhizodont.jpg&f=1&nofb=1
+Sawfish,Legendary,350000,225,600000,760,https://i.pinimg.com/originals/be/23/1b/be231bf4fdf4b99d1bea94b99a08c1e0.jpg
+Dunkleosteus,Legendary,3000000,600,4000000,879,https://4.bp.blogspot.com/-5KZJaXSz6Jo/WLhvZiH0hXI/AAAAAAAABWw/cLfkoMuv6wYg_J0n3lAssK0_HqP6VNG7wCLcB/s1600/Dunkleosteus.jpg
+Orca,Legendary,4000000,650,7000000,800,http://www.kidssearch.com/picsearch/images/orca-pic-1280x960-70d9f8a.png
+Comb Jelly,Legendary,80,10,200,12,https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2013/withnewstudy.jpg
+Stethacanthus,Legendary,34917,150,279344,300,https://vignette.wikia.nocookie.net/jpfanon/images/9/9d/Stethacanthus.jpg
+Zenaspis,Legendary,122,25,970,50,https://i.pinimg.com/736x/6c/de/18/6cde18316bb13b13c2dfc4050913069b.jpg
+Megalodon,Legendary,48000000,1600,103000000,2030,https://lh4.googleusercontent.com/proxy/q93rL12ZOFVL1G-o6Aum5c7EqSnGJQBxeUJiDP8Fmia5tggSupe0pn1Ml0udmVzTlxdn09GDZSBJp9_yj1QOpCPcjG7uoI2yqs20fj8qUjNlBX8GKCuHPw=w1200-h630-p-k-no-nu
+Eusthenodon,Legendary,161660,250,662154,400,https://www.dinofan.com/Life/LifeFormImages/Eusthenopteron1.gif
+Ctenacanth,Legendary,12812476,500,125000000,2300,https://www.krqe.com/wp-content/uploads/sites/12/2021/04/Godzilla-Above.8.jpg?w=900
+Falcatus,Legendary,181,27,313,30,https://i.pinimg.com/originals/c7/db/3a/c7db3a9ddfa63c46f007096cb3d37af8.png
+Giant Squid,Legendary,150000,1000,275000,1300,https://www.ripleys.com/wp-content/uploads/2016/04/Architeuthissanctipauli.jpg
